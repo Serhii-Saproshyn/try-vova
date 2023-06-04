@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/try-vova/static/css/main.edf0a6be.css",
-    "main.js": "/try-vova/static/js/main.1908d256.js",
+    "main.js": "/try-vova/static/js/main.bfea6bb3.js",
     "static/css/4.5854feef.chunk.css": "/try-vova/static/css/4.5854feef.chunk.css",
     "static/js/4.134b960f.chunk.js": "/try-vova/static/js/4.134b960f.chunk.js",
     "static/js/544.dd64e57d.chunk.js": "/try-vova/static/js/544.dd64e57d.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/Vector.svg": "/try-vova/static/media/Vector.e917114d7945c04c85a8946a331d28b6.svg",
     "index.html": "/try-vova/index.html",
     "main.edf0a6be.css.map": "/try-vova/static/css/main.edf0a6be.css.map",
-    "main.1908d256.js.map": "/try-vova/static/js/main.1908d256.js.map",
+    "main.bfea6bb3.js.map": "/try-vova/static/js/main.bfea6bb3.js.map",
     "4.5854feef.chunk.css.map": "/try-vova/static/css/4.5854feef.chunk.css.map",
     "4.134b960f.chunk.js.map": "/try-vova/static/js/4.134b960f.chunk.js.map",
     "544.dd64e57d.chunk.js.map": "/try-vova/static/js/544.dd64e57d.chunk.js.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.edf0a6be.css",
-    "static/js/main.1908d256.js"
+    "static/js/main.bfea6bb3.js"
   ]
 }
